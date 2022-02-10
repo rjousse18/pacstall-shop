@@ -1,0 +1,29 @@
+{
+  "name": "pacstall-shop",
+  "version": "0.0.1",
+  "description": "GUI app to install pacstall program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjousse18/pacstall-shop.git"
+  },
+  "keywords": [
+    "pacstall",
+    "linux",
+    "opensource",
+    "programs",
+    "GUI"
+  ],
+  "author": "rjousse18",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjousse18/pacstall-shop/issues"
+  },
+  "homepage": "https://github.com/rjousse18/pacstall-shop#readme",
+  "dependencies": {
+    "npm": "^8.4.1"
+  }
+}
