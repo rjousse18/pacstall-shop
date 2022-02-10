@@ -4,7 +4,8 @@
   "description": "GUI app to install pacstall program",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -24,6 +25,10 @@
   },
   "homepage": "https://github.com/rjousse18/pacstall-shop#readme",
   "dependencies": {
+    "child_process": "^1.0.2",
     "npm": "^8.4.1"
+  },
+  "devDependencies": {
+    "electron": "^17.0.0"
   }
 }
